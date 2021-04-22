@@ -14,4 +14,4 @@ Chapter 10: [Attention Mechanisms](https://github.com/biswajitsahoo1111/D2L_Atte
 
 The best way (in our opinion) is to either clone the repo (or download the zipped repo) and then run each notebook from the cloned (or extracted) folder. All the notebooks will run without any issue.
 
-**Note**: We claim no originality for the code. Credit goes to the authors of this excellent [book](http://d2l.ai/). However, all errors and omissions are my own and readers are encouraged to bring it to my notice. Finally, no TF code was available (to the best of my knowledge) for `Attention Mechanisms` chapter when this repo was first made public.
+**Note**: We claim no originality for the code. Credit goes to the authors of this excellent [book](http://d2l.ai/). However, all errors and omissions are my own and readers are encouraged to bring it to my notice. Finally, no TF code was available (to the best of my knowledge) for `Generative Adversarial Networks` chapter when this repo was first made public.
