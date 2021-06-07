@@ -1,5 +1,8 @@
 ![Tensorflow 2.4.1](https://img.shields.io/badge/Tensorflow-2.4.1-success.svg)
 # Tensorflow 2 code for D2L book's Generative Adversarial Networks (GANs) chapter
+
+### **This code has been merged with D2L book. See PR: [1760](https://github.com/d2l-ai/d2l-en/pull/1760)**
+
 This repository contains `Tensorflow 2` code for Generative Adversarial Networks chapter of [Dive into Deep Learning (D2L)](http://d2l.ai/) book. The chapter has 2 sections and code for each section can be found at the following links.
 
 [17.1. Generative Adversarial Networks](https://github.com/biswajitsahoo1111/D2L_Generative_Adversarial_Networks_in_TF/blob/master/17_1_Generative_Adversarial_Networks.ipynb)
